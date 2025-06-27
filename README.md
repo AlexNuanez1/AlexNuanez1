@@ -1,13 +1,13 @@
 <h1> Hi there, I'm  Alex! </h1>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2> 👨‍💻 Cyber Security Projects:</h2>
 
 - <b>PowerShell</b>
 
 - <b>Python</b>
   
  
-<h2>Certifcations: </h2>
+<h2> 📝 Certifcations: </h2>
 
 -  <b> SOC Fundamental Course</b> (https://app.letsdefend.io/my-rewards/detail/f3183759-abd8-4148-87f0-fcbd342ed48a)
 
