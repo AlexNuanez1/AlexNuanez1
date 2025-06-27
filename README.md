@@ -10,7 +10,7 @@
 
   - <b> Microsoft Intune + Defender for Endpoint Hardening Lab <b> (https://github.com/AlexNuanez1/Intune-Defender-for-Endpoint-Hardening-Lab/blob/main/README.md)
 
-  - <b> Microsoft Defender for Cloud Configuration <b>
+  - <b> Microsoft Defender for Cloud Configuration <b> (https://github.com/AlexNuanez1/Microsoft-Defender-for-Cloud-Configuration)
  
 <h2> 📝 Certifcations: </h2>
 
