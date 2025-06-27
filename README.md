@@ -6,7 +6,7 @@
   -  <b> Active Directory Using Powershell Lab <b> (https://github.com/AlexNuanez1/Active-Directory-With-Powershell)
 
 <b> Cloud Fundamentals <b>
-  - <b> Azure Conditional Access + MFA Enforcement Lab <b>
+  - <b> Azure Conditional Access + MFA Enforcement Lab <b> (https://github.com/AlexNuanez1/ACA-MFA-Enforcement-Lab/blob/main/README.md)
 
   - <b> Microsoft Intune + Defender for Endpoint Hardening Lab <b>
 
