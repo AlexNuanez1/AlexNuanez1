@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1> Hi there, I'm  Alex! </h1>
 
-<!--
-**AlexNuanez1/AlexNuanez1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cyber Security Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>PowerShell</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Python</b>
+  
+ 
+<h2>Certifcations: </h2>
+
+-  <b> SOC Fundamental Course</b> (https://app.letsdefend.io/my-rewards/detail/f3183759-abd8-4148-87f0-fcbd342ed48a)
+
+-  <b> AZ-900 </b> (https://learn.microsoft.com/api/credentials/share/en-us/AlexanderNuanez-0825/5D59ADC2130759A?sharingId=2330604CBD904156)
+
+-  <b> CompTIA Security+ </b> (https://www.credly.com/badges/e8f7f0e2-0697-43ec-a7c5-e3a25b0ca8f9/linked_in_profile)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://www.linkedin.com/in/alexnuanez/
