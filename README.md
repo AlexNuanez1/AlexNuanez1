@@ -2,9 +2,8 @@
 
 <h2> 👨‍💻 Cyber Security Projects:</h2>
 
-- <b>PowerShell</b>
-
-- <b>Python</b>
+<b> Scripting Automation <b>
+  - [Active Directory Using Powershell]
   
  
 <h2> 📝 Certifcations: </h2>
