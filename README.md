@@ -1,10 +1,16 @@
 <h1> Hi there, I'm  Alex! </h1>
-
+  
 <h2> 👨‍💻 Cyber Security Projects:</h2>
 
 <b> Scripting Automation <b>
-  -  <b> Active Directory Using Powershell <b> (https://github.com/AlexNuanez1/Active-Directory-With-Powershell)
-  
+  -  <b> Active Directory Using Powershell Lab <b> (https://github.com/AlexNuanez1/Active-Directory-With-Powershell)
+
+<b> Cloud Fundamentals <b>
+  - <b> Azure Conditional Access + MFA Enforcement Lab <b>
+
+  - <b> Microsoft Intune + Defender for Endpoint Hardening Lab <b>
+
+  - <b> Azure Security Center (Microsoft Defender for Cloud) Configuration <b>
  
 <h2> 📝 Certifcations: </h2>
 
