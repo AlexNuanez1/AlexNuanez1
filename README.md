@@ -3,14 +3,9 @@
 <h2> 👨‍💻 Cyber Security Projects:</h2>
 
 <b> Scripting Automation <b>
-  -  <b> Active Directory Using Powershell Lab <b> 
 
 <b> Cloud Fundamentals <b>
   - <b> Azure Conditional Access + MFA Enforcement Lab <b> (https://github.com/AlexNuanez1/ACA-MFA-Enforcement-Lab/blob/main/README.md)
-
-  - <b> Microsoft Intune + Defender for Endpoint Hardening Lab <b>
-
-  - <b> Microsoft Defender for Cloud Configuration <b> 
  
 <h2> 📝 Certifcations: </h2>
 
