@@ -18,7 +18,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[linkedin]: https://www.linkedin.com/in/alexnuanez/
-[Gmail]: anuanez02@gmail.com
+- [linkedin]: https://www.linkedin.com/in/alexnuanez/
+- [Gmail]: anuanez02@gmail.com
 
 
